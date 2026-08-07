@@ -37,7 +37,7 @@ The analysis includes:
 | :--- | :--- |
 | 📄 **[The-Coca-Cola-Company-Equity-Research-Report.pdf](./The-Coca-Cola-Company-Equity-Research-Report.pdf)** | Institutional-style equity research report covering business analysis, valuation methodology, investment thesis, and recommendation. |
 | 📊 **[Coca-Cola_DCF_Model.xlsx](./Coca-Cola_DCF_Model.xlsx)** | Discounted Cash Flow (DCF) valuation model featuring a 6-year financial forecast, WACC estimation, and intrinsic value calculation. |
-| 📈 **[Required_Financial_Data.xlsx](./Required_Financial_Data.xlsx)** | Historical financial statements, SEC filing extracts, market data, and supporting valuation inputs. |
+| 📈 **[Required_Financial_Data_KO.xlsx](./Required_Financial_Data.xlsx)** | Historical financial statements, SEC filing extracts, market data, and supporting valuation inputs. |
 | 🐍 **[Axiomeus](./scripts/axiomeus.py)** | Collection of internally developed Python tools used to support the research process, including financial ratio analysis - AlphaCore, beta estimation - BetaGet, and benchmark performance visualization - GraphiK. |
 | 🚧 **Axiomeus — WhatiFF** *(In Development)* | Monte Carlo simulation engine for probabilistic DCF valuation and sensitivity analysis across 100,000 simulations. |
 
