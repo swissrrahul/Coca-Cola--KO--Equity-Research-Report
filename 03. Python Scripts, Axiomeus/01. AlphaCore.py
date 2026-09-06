@@ -106,7 +106,7 @@ for i in range(0, 6):
     CAGR = (((data_us_10yr.loc["DEPS"].iloc[i]) / (data_us_10yr.loc["DEPS"].iloc[i + 5])) ** (1/5)) - 1
     rolling_cagr.append(CAGR)
 rolling_cagr = (pd.Series(rolling_cagr, index=data_us.columns) * 100)
-print(rolling_cagr)
+#print(rolling_cagr)
 
 
 
