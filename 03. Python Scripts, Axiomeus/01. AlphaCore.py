@@ -44,11 +44,11 @@ pd.set_option('display.float_format', '{:.4f}'.format)
 
 #---------------------------**|| Reading Excel File ||**---------------------------#
 
-data_us = pd.read_excel("C:/Users/rahul/OneDrive/Documents/Equity Research Reports/The Coca-Cola Company/Ratiocalc_CocaCola.xlsx",
+data_us = pd.read_excel("https://github.com/swissrrahul/Coca-Cola--KO--Equity-Research-Report/blob/main/02.%20Excel%20Models/02.%20Required%20Financial%20Data.xlsx?raw=true",
                         sheet_name="US_GAAP", usecols="B:H", header=2)
 data_us.set_index("Metrics", inplace=True)
 
-data_us_10yr = pd.read_excel("C:/Users/rahul/OneDrive/Documents/Equity Research Reports/The Coca-Cola Company/Ratiocalc_CocaCola.xlsx",
+data_us_10yr = pd.read_excel("https://github.com/swissrrahul/Coca-Cola--KO--Equity-Research-Report/blob/main/02.%20Excel%20Models/02.%20Required%20Financial%20Data.xlsx?raw=true",
                         sheet_name="US_GAAP", usecols="B:N", header=2)
 data_us_10yr.set_index("Metrics", inplace=True)
 
