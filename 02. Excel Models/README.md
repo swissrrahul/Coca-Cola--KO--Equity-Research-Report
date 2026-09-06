@@ -2,7 +2,7 @@
 
 ## 📊 Files Description
 
-### 1. `Coca_Cola_DCF_Model.xlsx`
+1. `Coca_Cola_DCF_Model.xlsx`
 A standalone, fully dynamic Excel valuation workbook containing:
 Historical Financials:** Income statements, balance sheets, and cash flow statements.
 Projections & Assumptions:** Revenue growth rates, margin forecasts, and terminal growth rate assumptions.
